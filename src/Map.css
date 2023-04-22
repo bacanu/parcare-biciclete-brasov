@@ -1,0 +1,10 @@
+#map {
+  width: 100vw;
+  height: 100vw;
+}
+
+.user-position {
+  background: red;
+  padding: 4px;
+  text-align: center;
+}

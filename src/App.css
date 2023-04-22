@@ -1,0 +1,33 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.gps {
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  margin-top: 10px;
+}
+.gps button {
+  display: block;
+  width: 100%;
+  font-size: larger;
+}
+.spot-list {
+  margin-top: 10px;
+}
+
+.spot-list > div {
+  padding: 5px;
+}
+
+.spot-list > div > .title {
+  font-size: large;
+
+}
+
+.spot-list > div > .desc {
+
+}
